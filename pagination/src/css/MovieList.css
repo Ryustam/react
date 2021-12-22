@@ -1,0 +1,12 @@
+
+*{
+    text-align: center;
+}
+
+#MovieList{
+    width: 300px;
+    height: 400px;
+    margin: 30px auto;
+    background-color: beige;
+}
+

@@ -1,0 +1,21 @@
+
+#pagination{
+    width: 550px;
+    height: 100px;
+    background-color: bisque;
+}
+.page{
+    width: 35px;
+    height: 35px;
+    border: 1px solid black;
+    margin: 10px;
+    text-align: center;
+    display: inline-block;
+    
+    
+}
+
+.page:hover{
+    border: 1px solid gray;
+    text-decoration: underline;
+}
