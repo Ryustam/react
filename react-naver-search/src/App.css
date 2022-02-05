@@ -1,0 +1,13 @@
+
+#app{
+  width:800px;
+  height:800px;
+  background-color: aqua;
+  margin:0 auto;
+}
+
+#search-area{
+  width:500px;
+  height:50px;
+  background-color: aquamarine;
+}

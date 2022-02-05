@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+
+ul{
+  list-style-type: none;
+}
+
+#App{
+  width: 700px;
+  height: 1000px;
+  background-color: honeydew;
+  margin: 0 auto;
+}
